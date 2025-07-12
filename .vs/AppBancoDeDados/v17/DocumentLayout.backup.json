@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\verificacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:verificacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Verificacoes.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Verificacoes.cs",
               "RelativeDocumentMoniker": "Verificacoes.cs",
@@ -103,8 +103,7 @@
               "RelativeToolTip": "Remocoes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:05:03.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T18:05:03.162Z"
             },
             {
               "$type": "Document",
@@ -116,8 +115,7 @@
               "RelativeToolTip": "Insercoes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:03:41.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T18:03:41.525Z"
             },
             {
               "$type": "Document",
@@ -129,8 +127,7 @@
               "RelativeToolTip": "Consultas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:02:02.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T18:02:02.449Z"
             },
             {
               "$type": "Document",
@@ -142,8 +139,7 @@
               "RelativeToolTip": "ConexaoBancoDeDados.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T00:05:28.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T00:05:28.482Z"
             },
             {
               "$type": "Document",
@@ -173,13 +169,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EscolherConsulta.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\EscolherConsulta.cs",
               "RelativeDocumentMoniker": "EscolherConsulta.cs",
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\EscolherConsulta.cs",
               "RelativeToolTip": "EscolherConsulta.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwB0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T02:16:15.165Z",
               "EditorCaption": ""
@@ -219,8 +215,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T00:02:51.186Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-09T00:02:51.186Z"
             },
             {
               "$type": "Document",
@@ -231,8 +226,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\InserirDados.cs [Projeto]",
               "RelativeToolTip": "InserirDados.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T00:41:40.938Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-09T00:41:40.938Z"
             },
             {
               "$type": "Document",
@@ -243,8 +237,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\EscolherConsulta.cs [Projeto]",
               "RelativeToolTip": "EscolherConsulta.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T01:56:59.594Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-09T01:56:59.594Z"
             },
             {
               "$type": "Document",
@@ -255,8 +248,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\RemoverDados.cs [Projeto]",
               "RelativeToolTip": "RemoverDados.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T01:26:13.862Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-10T01:26:13.862Z"
             },
             {
               "$type": "Document",
@@ -267,8 +259,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\ConsultaTodosClientes.cs [Projeto]",
               "RelativeToolTip": "ConsultaTodosClientes.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T01:52:28.103Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-12T01:52:28.103Z"
             }
           ]
         }

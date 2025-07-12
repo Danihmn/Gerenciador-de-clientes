@@ -88,7 +88,7 @@
               "RelativeDocumentMoniker": "Verificacoes.cs",
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Verificacoes.cs",
               "RelativeToolTip": "Verificacoes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T18:06:41.964Z",
               "EditorCaption": ""
@@ -103,8 +103,7 @@
               "RelativeToolTip": "Remocoes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:05:03.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T18:05:03.162Z"
             },
             {
               "$type": "Document",
@@ -116,8 +115,7 @@
               "RelativeToolTip": "Insercoes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:03:41.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T18:03:41.525Z"
             },
             {
               "$type": "Document",
@@ -129,8 +127,7 @@
               "RelativeToolTip": "Consultas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T18:02:02.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T18:02:02.449Z"
             },
             {
               "$type": "Document",
@@ -142,8 +139,7 @@
               "RelativeToolTip": "ConexaoBancoDeDados.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T00:05:28.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T00:05:28.482Z"
             },
             {
               "$type": "Document",
@@ -219,8 +215,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T00:02:51.186Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-09T00:02:51.186Z"
             },
             {
               "$type": "Document",
@@ -231,8 +226,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\InserirDados.cs [Projeto]",
               "RelativeToolTip": "InserirDados.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T00:41:40.938Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-09T00:41:40.938Z"
             },
             {
               "$type": "Document",
@@ -243,8 +237,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\EscolherConsulta.cs [Projeto]",
               "RelativeToolTip": "EscolherConsulta.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T01:56:59.594Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-09T01:56:59.594Z"
             },
             {
               "$type": "Document",
@@ -255,8 +248,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\RemoverDados.cs [Projeto]",
               "RelativeToolTip": "RemoverDados.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T01:26:13.862Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-10T01:26:13.862Z"
             },
             {
               "$type": "Document",
@@ -267,8 +259,7 @@
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\ConsultaTodosClientes.cs [Projeto]",
               "RelativeToolTip": "ConsultaTodosClientes.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T01:52:28.103Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-07-12T01:52:28.103Z"
             }
           ]
         }
