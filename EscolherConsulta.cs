@@ -1,5 +1,8 @@
 ﻿namespace AppBancoDeDados
 {
+    /// <summary>
+    /// Formulário de consultas de dados
+    /// </summary>
     public partial class EscolherConsulta : Form
     {
         public EscolherConsulta()
@@ -12,7 +15,7 @@
         {
             try
             {
-                object id = textBox1.Text;
+                string id = textBox1.Text;
                 var consulta = Consulta.ConsultaPorId(id); // Executa o método de consulta por id
                 string resultadoId = consulta.Rows[0].ItemArray[0].ToString();
                 string resultadoNome = consulta.Rows[0].ItemArray[1].ToString();
@@ -33,7 +36,7 @@
             catch (Exception ex)
             {
                 MessageBox.Show("Erro ao realizar a consulta. " + ex.Message);
-                return;
+                throw;
             }
         }
 
@@ -42,7 +45,7 @@
         {
             try
             {
-                object nome = textBox2.Text.ToUpper().Trim();
+                string nome = textBox2.Text.ToUpper().Trim();
                 var consulta = Consulta.ConsultaPorNome(nome); // Executa o método de consulta por nome
                 string resultadoId = consulta.Rows[0].ItemArray[0].ToString();
                 string resultadoNome = consulta.Rows[0].ItemArray[1].ToString();
@@ -63,7 +66,7 @@
             catch (Exception ex)
             {
                 MessageBox.Show("Erro ao realizar a consulta. " + ex.Message);
-                return;
+                throw;
             }
         }
 

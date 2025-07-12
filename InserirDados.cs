@@ -1,5 +1,8 @@
 ﻿namespace AppBancoDeDados
 {
+    /// <summary>
+    /// Formulário de inserção de dados
+    /// </summary>
     public partial class InserirDados : Form
     {
         public InserirDados()
@@ -12,9 +15,9 @@
             try
             {
                 // Armazena os valores dos campos
-                object nome = textBox1.Text.ToUpper().Trim();
-                object email = textBox2.Text.ToLower().Trim();
-                object telefone = textBox3.Text.ToUpper().Trim();
+                string nome = textBox1.Text.ToUpper().Trim();
+                string email = textBox2.Text.ToLower().Trim();
+                string telefone = textBox3.Text.ToUpper().Trim();
 
                 // Métodos de verificação de existência
                 bool existeEmail = Verificacao.VerificarPorEmail(email);
@@ -47,7 +50,7 @@
             catch (Exception ex)
             {
                 MessageBox.Show($"Erro ao inserir os dados: {ex.Message}");
-                System.Environment.Exit(0);
+                throw;
             }
         }
     }

@@ -3,48 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:bancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\verificacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:verificacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\removerdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:removerdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\conexaobancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:conexaobancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\insercoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:insercoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\remocoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:remocoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\consultatodosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:consultatodosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\removerdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:removerdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\removerdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:removerdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|c:\\users\\danie\\dev.net\\estudos\\appbancodedados\\consultatodosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\consultatodosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:consultatodosclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:escolherconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA85D90A-AF12-4FF0-8C0B-94CF11D5ABBA}|AppBancoDeDados.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,71 +83,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BancoDeDados.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\BancoDeDados.cs",
-              "RelativeDocumentMoniker": "BancoDeDados.cs",
-              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\BancoDeDados.cs",
-              "RelativeToolTip": "BancoDeDados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Title": "Verificacoes.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Verificacoes.cs",
+              "RelativeDocumentMoniker": "Verificacoes.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Verificacoes.cs",
+              "RelativeToolTip": "Verificacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:06:41.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Remocoes.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Remocoes.cs",
+              "RelativeDocumentMoniker": "Remocoes.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Remocoes.cs",
+              "RelativeToolTip": "Remocoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:05:03.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Insercoes.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Insercoes.cs",
+              "RelativeDocumentMoniker": "Insercoes.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Insercoes.cs",
+              "RelativeToolTip": "Insercoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:03:41.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consultas.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Consultas.cs",
+              "RelativeDocumentMoniker": "Consultas.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Consultas.cs",
+              "RelativeToolTip": "Consultas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:02:02.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConexaoBancoDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\ConexaoBancoDeDados.cs",
+              "RelativeDocumentMoniker": "ConexaoBancoDeDados.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\ConexaoBancoDeDados.cs",
+              "RelativeToolTip": "ConexaoBancoDeDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T00:05:28.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T00:03:36.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "InserirDados.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\InserirDados.cs",
               "RelativeDocumentMoniker": "InserirDados.cs",
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\InserirDados.cs",
               "RelativeToolTip": "InserirDados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T00:41:48.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EscolherConsulta.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\EscolherConsulta.cs",
               "RelativeDocumentMoniker": "EscolherConsulta.cs",
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\EscolherConsulta.cs",
               "RelativeToolTip": "EscolherConsulta.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwEwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T02:16:15.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "RemoverDados.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\RemoverDados.cs",
               "RelativeDocumentMoniker": "RemoverDados.cs",
               "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\RemoverDados.cs",
               "RelativeToolTip": "RemoverDados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T01:34:30.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ConsultaTodosClientes.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\ConsultaTodosClientes.cs",
               "RelativeDocumentMoniker": "ConsultaTodosClientes.cs",
@@ -144,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -156,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "InserirDados.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\InserirDados.cs",
               "RelativeDocumentMoniker": "InserirDados.cs",
@@ -168,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "EscolherConsulta.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\EscolherConsulta.cs",
               "RelativeDocumentMoniker": "EscolherConsulta.cs",
@@ -180,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RemoverDados.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\RemoverDados.cs",
               "RelativeDocumentMoniker": "RemoverDados.cs",
@@ -192,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ConsultaTodosClientes.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\AppBancoDeDados\\ConsultaTodosClientes.cs",
               "RelativeDocumentMoniker": "ConsultaTodosClientes.cs",

@@ -1,5 +1,8 @@
 ﻿namespace AppBancoDeDados
 {
+    /// <summary>
+    /// Formulário de remoção de dados
+    /// </summary>
     public partial class RemoverDados : Form
     {
         public RemoverDados()
@@ -12,7 +15,7 @@
         {
             try
             {
-                object id = textBox1.Text; // Passa o texto para a variável id
+                string id = textBox1.Text; // Passa o texto para a variável id
                 bool existeDado = Verificacao.VerificarPorId(id); // Método de verificação de existência por id
 
                 if (id != "")
@@ -35,7 +38,7 @@
             catch (Exception ex)
             {
                 MessageBox.Show("Erro ao excluir o cliente. " + ex.Message);
-                return;
+                throw;
             }
         }
     }
