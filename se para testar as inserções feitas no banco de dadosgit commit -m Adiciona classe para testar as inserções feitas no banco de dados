@@ -1,0 +1,29 @@
+[33mcommit 40d56e95715e22c488c72b388dd34f6905e6e670[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Danihmn <daniel.bezerra.mult@gmail.com>
+Date:   Tue Jul 29 23:39:39 2025 -0300
+
+    Adiciona classe para testar as inserções feitas no banco de dados
+
+[33mcommit 340e6df75ea5dafaf957e024995b5915e0b23e7a[m
+Author: Danihmn <daniel.bezerra.mult@gmail.com>
+Date:   Sat Jul 12 16:26:37 2025 -0300
+
+    Adiciona README
+
+[33mcommit 23f4f9d411be7c070571dde1cc29b637a390a8c5[m
+Author: Daniel Eduardo <123660583+Danihmn@users.noreply.github.com>
+Date:   Sat Jul 12 16:17:47 2025 -0300
+
+    Create README.md
+
+[33mcommit 435bf94974a142d935e6361f4b790f87f5377375[m
+Author: Danihmn <daniel.bezerra.mult@gmail.com>
+Date:   Sat Jul 12 15:43:31 2025 -0300
+
+    Separa arquivos por responsabilidades, insere comentários XML e altera tipos object por tipos específicos
+
+[33mcommit c8f6f769123ed5adeaa04e71f88ba05ae058bd85[m
+Author: Danihmn <daniel.bezerra.mult@gmail.com>
+Date:   Sat Jul 12 00:30:36 2025 -0300
+
+    Primeiro commit
