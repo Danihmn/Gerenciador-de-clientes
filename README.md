@@ -9,6 +9,7 @@ Um sistema simples de gerenciamento de clientes com interface em Windows Forms, 
 ## Tecnologias usadas
 
 - C#
+- ADO.NET
 - SQLite
 - Windows Forms
 
